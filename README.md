@@ -3,10 +3,10 @@
 A Python-based voice assistant designed to perform various tasks through voice commands, featuring wake-word detection and text-to-speech capabilities.
 
 ## 🚀 Features
-* [cite_start]**Wake Word Detection**: Responds to specific wake words like "wake up", "jarvis", and "computer". [cite: 208]
-* [cite_start]**Voice Commands**: Can search Wikipedia, open YouTube or Google Chrome, tell jokes, and provide the current time. [cite: 209]
-* [cite_start]**Audio Feedback**: Provides spoken responses and chime sound effects for activation and deactivation. [cite: 210]
-* [cite_start]**System Controls**: Includes a "standby" mode and the ability to exit via voice command. [cite: 211]
+* **Wake Word Detection**: Responds to specific wake words like "wake up", "jarvis", and "computer". [cite: 208]
+* **Voice Commands**: Can search Wikipedia, open YouTube or Google Chrome, tell jokes, and provide the current time. [cite: 209]
+* **Audio Feedback**: Provides spoken responses and chime sound effects for activation and deactivation. [cite: 210]
+* **System Controls**: Includes a "standby" mode and the ability to exit via voice command. [cite: 211]
 
 ## 🛠️ Installation
 
@@ -15,7 +15,7 @@ A Python-based voice assistant designed to perform various tasks through voice c
    git clone [https://github.com/Gopi-Vijay-Kumar/Jarvis-AI-Assisstant.git](https://github.com/Gopi-Vijay-Kumar/Jarvis-AI-Assisstant.git)
    cd Jarvis-AI-Assisstant
 2. Install Dependencies:
-   [cite_start]Ensure you have Pythonv3.13 installed, then run:
+   Ensure you have Pythonv3.13 installed, then run:
    ```bash
    pip install -r requirements.txt++
 ## 🎙️ How to Use
